@@ -9,6 +9,5 @@ Depois informa os níveis de gorduras e açúcar de cada fornecedor, com um grá
 ## Bibliotecas utilizadas
 
 - Pandas
-- Numpy
 - Seaborn
-- Matplotlib
+- Módulo pyplot da biblioteca Matplotlib
